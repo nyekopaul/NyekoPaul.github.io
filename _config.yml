@@ -85,9 +85,9 @@ analytics:
 # Site Author
 author:
   name             : "Nyeko Paul"
-  avatar           : "paul.jpg"
+  avatar           : "/images/bio-pic-2.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Desktop"
+  location         : "Somewhere, USA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
