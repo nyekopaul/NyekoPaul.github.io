@@ -87,7 +87,7 @@ author:
   name             : "Nyeko Paul"
   avatar           : "paul.jpg"
   bio              : "Data Science Portfolio"
-  location         : "C:/User/Layik/Desktop"
+  location         : "Desktop"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
