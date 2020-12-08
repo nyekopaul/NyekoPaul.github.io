@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+date: 2020-12-08
+tags: [Risk Mitigation,Machine-Learning,Paul Data]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
